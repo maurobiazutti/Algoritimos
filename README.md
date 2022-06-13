@@ -1,2 +1,0 @@
-# Algoritimos
-Desafios_Algorítimos
